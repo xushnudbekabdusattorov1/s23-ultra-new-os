@@ -1,0 +1,6 @@
+{
+  "name": "S-Zenith: Galaxy S23 Ultra Minimalist OS",
+  "description": "Samsung Galaxy S23 Ultra uchun moslashtirilgan minimalist kundalik samaradorlik, S-Pen qaydlari va One UI uslubidagi interfeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
